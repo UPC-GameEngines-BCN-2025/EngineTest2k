@@ -1,0 +1,6 @@
+[submodule "Engine/external/vcpkg"]
+	path = Engine/external/vcpkg
+	url = https://github.com/microsoft/vcpkg.git
+[submodule "Engine/vcpkg"]
+	path = Engine/vcpkg
+	url = https://github.com/microsoft/vcpkg.git
